@@ -33,5 +33,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AustinCodingAcademy/411_wk5_day1_mapstatetoprops)",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightonyoung/411_wk5_day1_mapstatetoprops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brightonyoung/411_wk5_day1_mapstatetoprops/issues"
+  },
+  "homepage": "https://github.com/brightonyoung/411_wk5_day1_mapstatetoprops#readme"
 }

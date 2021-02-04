@@ -1,9 +1,9 @@
 import React from 'react'
 import { Switch, Route } from 'react-router'
-import Home from './components/Home'
-import About from './components/About'
-import Car from './components/Car'
-import Dashboard from './components/Dashboard'
+import Home from './containers/home'
+import About from './components/About.js'
+import Car from './containers/Car.js'
+import Dashboard from './containers/Dashboard.js'
 
 const Router = () => {
     return (

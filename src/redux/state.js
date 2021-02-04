@@ -1,5 +1,10 @@
 export default {
-    // Add user property here
+   //  username: 'whitepk86',
+   //  email: 'pat.k.white@gmail.com',
+    user: {
+       username: 'whitepk86',
+       email: 'pat.k.white@gmail.com'
+      },
     cars: [
         {
            "id": 1,

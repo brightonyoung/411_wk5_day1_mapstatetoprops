@@ -2,8 +2,8 @@ export default {
    //  username: 'whitepk86',
    //  email: 'pat.k.white@gmail.com',
     user: {
-       username: 'whitepk86',
-       email: 'pat.k.white@gmail.com'
+       username: 'brightonyoung',
+       email: 'brighton.young@outlook.com'
       },
     cars: [
         {
